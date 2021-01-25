@@ -1,3 +1,5 @@
 This is a sample file.
 
 This line is added after the forking. This is upstream.
+
+This line is added in second commit.
